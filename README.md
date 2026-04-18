@@ -1,29 +1,78 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)]
-<h1 align="center">Hi 👋, I'm Atharv More</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvmore6666&label=Profile%20views&color=0e75b6&style=flat" alt="atharvmore6666" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a73e8&height=200&section=header&text=Atharv%20More&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20)
 
-- 🌱 I’m currently learning **My Sql Workbench , Power Bi , Tableau**
+[![Profile Views](https://komarev.com/ghpvc/?username=atharvmore6666&label=Profile%20Views&color=1a73e8&style=flat-square)](https://github.com/atharvmore6666)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/atharva-more)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:atharvamore1304@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/drinkswithdababy)
 
-- 💬 Ask me about **AI / ML**
+</div>
 
-- 📫 How to reach me **atharvamore1304@gmail.com**
+---
 
-- ⚡ Fun fact **I was Mixologist before entering to this Data Anlytics world**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atharva more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva more" height="30" width="40" /></a>
-<a href="https://instagram.com/drinkswithdababy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drinkswithdababy" height="30" width="40" /></a>
-</p>
+I'm a **Data Scientist** based in India with a strong passion for turning raw data into actionable insights. My background spans machine learning, statistical analysis, and data visualization — and I'm currently expanding my expertise into business intelligence tools and agentic AI frameworks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Before pivoting into the data world, I worked as a **Mixologist** — an experience that sharpened my eye for precision, creativity, and delivering results under pressure. Skills that translate surprisingly well into data science.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvmore6666&show_icons=true&locale=en&layout=compact" alt="atharvmore6666" /></p>
+- 🔭 Currently deepening my knowledge in **MySQL Workbench**, **Power BI**, **Tableau**, and **Google ADK**
+- 💡 Open to collaboration on **AI/ML projects** and **data-driven solutions**
+- 📬 Reach me at **atharvamore1304@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvmore6666&show_icons=true&locale=en" alt="atharvmore6666" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvmore6666&" alt="atharvmore6666" /></p>
+## Tech Stack
+
+### Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### 🌱 Currently Learning
+
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Development%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+<div align="center">
+  <a href="https://google.github.io/adk-docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Exploring-Google%20ADK%20%7C%20Build%20AI%20Agents-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+  </a>
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=atharvmore6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmore6666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvmore6666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is the new oil — and I'm here to refine it."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d1117&height=100&section=footer)
+
+</div>
+
